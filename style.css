@@ -1,1 +1,6 @@
 /* File for demonstration... */
+
+body {
+    background-color: aqua;
+    color: black;
+}
